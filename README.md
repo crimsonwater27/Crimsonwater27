@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hey there, I'm <a href="#">Cole</a>!</h1> ![Banner Image](your_banner_image_url_here)
+<h1 align="center">👋 Hey there, I'm <a href="#">Cole</a>!</h1> ![Banner Image](<img width="2480" height="2480" alt="11th digital drawing logo" src="https://github.com/user-attachments/assets/b809870b-7c8a-4796-a158-77f6fb98fef7" />
+)
 <h3 align="center">🚀 Aspiring Frontend Developer | 🌱 Lifelong Learner | 💡 Curious Creator</h3>
 
 ---
