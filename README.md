@@ -47,10 +47,10 @@ Every day, I’m exploring new things, solving problems, and building my coding 
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/cole-yung-063587369">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:utsukushiotaku17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi!-lightgrey?style=for-the-badge&logo=gmail" />
   </a>
 </p>
