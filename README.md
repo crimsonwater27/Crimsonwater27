@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <a href="#">Cole</a>!</h1>
+<h1 align="center">👋 Hey there, I'm <a href="#">Cole</a>!</h1> ![Banner Image](your_banner_image_url_here)
 <h3 align="center">🚀 Aspiring Frontend Developer | 🌱 Lifelong Learner | 💡 Curious Creator</h3>
 
 ---
